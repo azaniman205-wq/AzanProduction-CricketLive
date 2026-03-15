@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #111;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo {
+  width: 90px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+section {
+  background: white;
+  margin: 12px auto;
+  padding: 18px;
+  max-width: 920px;
+  border-radius: 10px;
+}
+
+h2 {
+  margin-bottom: 12px;
+}
+
+video, audio {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.match {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer;
+}
